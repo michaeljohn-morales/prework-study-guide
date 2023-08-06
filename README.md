@@ -10,8 +10,6 @@ Why did you build this project? (Note: the answer is not "Because it was a homew
 What did you learn?
 - A lot about myself as well as coding. For which we will delve into later.
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
-
 ## Usage
 You can change the source code in the index.html file in order to add more notes.
 
