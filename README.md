@@ -1,14 +1,14 @@
 # Prework Study Guide Webpage
 
 ## Description
-Q: What was your motivation?
-A:To learn more about making websites, I decided to make a webpage dedicated for jotting down notes.
+- Q: What was your motivation?
+- A: To learn more about making websites, I decided to make a webpage dedicated for jotting down notes.
 
-Q: Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-A: To have a grasp on how HTML, CSS, and Javascript come together to make webpages
+- Q: Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
+- A: To have a grasp on how HTML, CSS, and Javascript come together to make webpages
 
-Q: What did you learn?
-A: A lot about myself as well as coding. For which we will delve into later.
+- Q: What did you learn?
+- A: A lot about myself as well as coding. For which we will delve into later.
 
 What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 
